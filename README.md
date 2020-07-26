@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Agricultural Consulting
 
-You can use the [editor on GitHub](https://github.com/djdebonis/agriConsult/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is agricultural consulting?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Agricultural consulting is...
 
-### Markdown
+## Why is agricultural consulting so vital?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Agricultural consulting is vital because...
 
-```markdown
-Syntax highlighted code block
+## Who does agricultural consulting benefit?
 
-# Header 1
-## Header 2
-### Header 3
+Everyone!
 
-- Bulleted
-- List
+## Mind the Grow
 
-1. Numbered
-2. List
+Mind the grow--a business specializing in agricultural consulting!
 
-**Bold** and _Italic_ and `Code` text
+## About Me
 
-[Link](url) and ![Image](src)
-```
+I'm an agricultural consultant!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Coffee agribusiness
 
-### Jekyll Themes
+How many times might we use the prefix 'agri'???
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/djdebonis/agriConsult/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Variables affecting coffee production
 
-### Support or Contact
+### Environmental, 'out of our control' variables
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If our farms are already established, these are out of our control!
+
+#### Altitude
+
+#### Rainfall
+
+#### Bugs!!
+
+### Adjustable, 'in our control' variables
+
+### Shade
+
+### Sow/plant density
+
+### Irrigation?
+
+## Variablility in coffee production (dependent variables)
+
+### Quality
+
+### Quantity
+
+### Consistency
+
+
